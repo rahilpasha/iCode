@@ -1,0 +1,30 @@
+📝 Basic Print Statements
+🖨 🔡 Hello World!
+🖨 🔢 3 + 5
+
+📝 Storing Integers in Variables
+📦 a 🔢 6
+📦 b 🔢 2
+📦 a 🔢 9
+🖨 a + b
+
+📝 Storing Strings in Variables
+📦 c 🔡 iCode is awesome
+🖨 c
+
+📝 Creating a Loop
+🔁 5
+↪️
+🖨 🔡 This is a loop!
+↩️
+
+📝 Using Conditional Statements
+❓ b = 🔢 2
+↪️
+🖨 🔡 B is equal to 2
+↩️
+
+📝 Getting Input from the User
+📦 name ⌨️ Enter your name:
+🖨 🔡 Hi
+🖨 name
